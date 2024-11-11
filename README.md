@@ -1,0 +1,1 @@
+n this repository, you will find Python code and data for a machine learning model developed as part of my thesis work.  The goal of the machine learning model is to predict germination probabilities based on data from germination experiments. The predictions from this model were used to build a natural selection model in R, which is also included here.
